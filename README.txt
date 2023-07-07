@@ -1,10 +1,5 @@
 _______________________________________________________________________________________________
-Team Information:
-
-Akyra Lee, akyral, akyral@uci.edu, 96121718
-Cecheng Cao, cechengc, cechengc@uci.edu, 87871777
-Aigerim Kubanychbek Kyzy, akubanyc, akubanyc@uci.edu, 70321299
-
+Team Information: 3 people
 _______________________________________________________________________________________________
 Required Dependancies:
 
